@@ -3,7 +3,7 @@
 
 #### Software Architecture
 Software architecture description
-@@xcompcash=cyou@@
+@@fyinformation=cc@@
 #### Installation
 
 1.  xxxx
